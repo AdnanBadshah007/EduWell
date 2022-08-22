@@ -9,9 +9,7 @@ export let Banner = () => {
             <div className="col-lg-5 offset-lg-1">
               <div className="left-image">
                 <img
-                  src={
-                    process.env.PUBLIC_URL + "assets/images/cta-left-image.png"
-                  }
+                  src="./EduWell/assets/images/cta-left-image.png"
                   alt="cta-left-image.png"
                 />
               </div>
